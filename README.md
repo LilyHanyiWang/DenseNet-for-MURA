@@ -6,6 +6,8 @@ Instructor: Dani Yogatama
 
 Collaborators: Huixian Gong, Hanyi Wang, Qifan Wang, Yumin Wang
 
-Dataset:
+Dataset: “MURA (musculoskeletal radiographs)” https://stanfordmlgroup.github.io/competitions/mura/ (accessed December, 2024).
 
-“MURA (musculoskeletal radiographs)” https://stanfordmlgroup.github.io/competitions/mura/ (accessed December, 2024).
+Abstract:
+
+
